@@ -1,4 +1,6 @@
-# Installing an R working environnment
+# Creating a cooperative working environment
+
+## using R, RStudio and git using GitHub
 
 This document will help you to install a working evironment consinsting of R, RStudio and some R packages and further utilities.
 
