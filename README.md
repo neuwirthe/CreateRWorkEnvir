@@ -7,14 +7,14 @@ This document will help you to install a working evironment consinsting of R, RS
 
 To begin with, you will need to install R and RStudio for your platform.
 
-git might be installed on your machine (if you have a Mac with OSX or a Lunix machine).
+git might be installed on your machine (if you have a Mac with OSX or a Linux machine).
 
 If git is not installed, you can find the current version at https://git-scm.com
 
 In the next step, you have to set up a GitHub account at https://github.com
 
 
+To be able to contribute to repositories, some further work is needed.
 
-Then, you have to create an github repository
 
 http://www.r-bloggers.com/rstudio-and-github/
